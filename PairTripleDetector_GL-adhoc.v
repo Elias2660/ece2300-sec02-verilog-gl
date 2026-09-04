@@ -59,6 +59,7 @@ module Top();
     in0 = 0;
     in1 = 1;
     in2 = 0;
+  
     #10;
     $display( "%b %b %b > %b", in0, in1, in2, out );
 
